@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.debugging"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.debugging"
